@@ -4,4 +4,6 @@ Open Source SSO Solution Using GO
 
 
 # Todos
-[] Architecture Design
+[x] Architecture Design
+[] Information Flow Design
+
